@@ -1,4 +1,5 @@
-## Hi there 👋
+## Hello There
+I am an undergraduate studying software engineering at Leeds Beckett University
 
 <!--
 **SPeirson/SPeirson** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
